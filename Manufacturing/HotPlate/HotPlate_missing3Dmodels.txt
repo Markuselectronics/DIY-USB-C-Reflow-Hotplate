@@ -1,0 +1,12 @@
+### Missing 3D models - created on 2025-11-12 21:41
+### Printed by checking_3D_models plugin
+Board file: C:\Users\lugma\Documents\KiCad\Projects\HotPlate\HotPlate.kicad_pcb
+3D missing models written to:
+C:\Users\lugma\Documents\KiCad\Projects\HotPlate\HotPlate_missing3Dmodels.txt
+-------
+('U3', 'C:\\Program Files\\KiCad\\9.0\\share\\kicad\\3dmodels\\Package_SO.3dshapes\\Texas_R-PDSO-G8_EP2.95x4.9mm_Mask2.4x3.1mm.step')
+('SW1', 'C:\\Program Files\\KiCad\\9.0\\share\\kicad\\3dmodels\\Rotary_Encoder.3dshapes\\RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm.step')
+('L1', 'C:\\Program Files\\KiCad\\9.0\\share\\kicad\\3dmodels\\Inductor_SMD.3dshapes\\L_6.3x6.3_H3.step')
+-------
+NUM of 3D missing models:3
+checked extensions ['.stp', '.step', '.stpZ']
