@@ -10,7 +10,6 @@ This repository contains all design files for the project.
 * **`/Manufacturing`**: Gerber files for JLCPCB.
   * `HotPlate.zip` (Use SMT Assembly)
   * `Plate` (**Order as Aluminum PCB!**)
-* **`/3D_Print`**: STL files for the enclosure (Print in PETG).
 * **`/Firmware`**: Source code for the STM32 microcontroller.
 
 ## ⚠️ Warning
